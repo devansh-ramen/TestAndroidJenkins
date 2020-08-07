@@ -5,7 +5,7 @@ android {
     buildToolsVersion "30.0.0"
 
     defaultConfig {
-        applicationId "com.checkout.myapplication"
+        applicationId "com.devansh.myjenkinstest"
         minSdkVersion 16
         targetSdkVersion 29
         versionCode 1
